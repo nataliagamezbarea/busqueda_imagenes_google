@@ -1,0 +1,17 @@
+{
+  "name": "vercel-testing",
+  "version": "1.0.0",
+  "description": "Node.js Express app for Google image search",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "google-search-results-nodejs": "^2.1.0",
+    "dotenv": "^17.2.1"
+  }
+}
